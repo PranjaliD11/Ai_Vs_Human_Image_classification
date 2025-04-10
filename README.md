@@ -33,17 +33,6 @@ The goal: build a model that can distinguish human-taken photos from AI-generate
 
 ---
 
-## 📸 Sample Predictions
-
-| Input Image | Predicted | Ground Truth |
-|-------------|-----------|--------------|
-| ![sample1](/kaggle/input/ai-vs-human-generated-dataset/train_data/a6dcb93f596a43249135678dfcfc17ea.jpg) | AI | AI |
-| ![sample2](path/to/image2.jpg) | Real | Real |
-
-*(Swap in a few actual visuals. People LOVE pretty pictures—even more than accuracy.)*
-
----
-
 ## 📝 Want More Detail?
 
 I wrote a blog walking through the full process:
